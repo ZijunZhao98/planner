@@ -1,0 +1,27 @@
+{
+  "name": "planner",
+  "version": "1.0.0",
+  "description": "A desktop planner",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZijunZhao98/planner.git"
+  },
+  "keywords": [
+    "planner"
+  ],
+  "author": "Zijun Zhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZijunZhao98/planner/issues"
+  },
+  "homepage": "https://github.com/ZijunZhao98/planner#readme"
+}
