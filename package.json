@@ -4,7 +4,7 @@
   "description": "A desktop planner",
   "main": "main.js",
   "dependencies": {
-    "electron": "^7.1.1"
+    "electron": "^15.5.5"
   },
   "devDependencies": {},
   "scripts": {
